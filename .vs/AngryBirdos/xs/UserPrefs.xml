@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{78F7E41A-3C15-8B71-1ED9-983955E081D1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Monster.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bird.cs" Line="27" Column="23" />
+      <File FileName="Assets/Scripts/Monster.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/LevelController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AngryBirdos" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Monster.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8ff8b7e8-3ea9-4931-bca6-b441c5efd8fb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
